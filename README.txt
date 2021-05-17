@@ -1,10 +1,9 @@
 Code uses W3.CSS
 
-Database: MySQL
+Database: MySQL / InnoDB
 
 run on xampp with local host.
 
-the homepage is the index.php file
 
 Installation:
 1. Download as zip
