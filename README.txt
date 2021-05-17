@@ -4,7 +4,6 @@ Database: MySQL / InnoDB
 
 run on xampp with local host.
 
-
 Installation:
 1. Download as zip
 2. Extract to htdocs in xampp folder
